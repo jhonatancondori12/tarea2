@@ -1,0 +1,83 @@
+.contenedor
+{
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.cont1
+{
+    background-color: black;
+    width: 400px;
+    height: 750px;
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+}
+.cont1-1
+{
+    display: flex;
+    flex-direction: row;
+}
+.cont1-2
+{
+    display: flexbox;
+    flex-direction: column;
+    position: relative;
+    top: 190px;
+    right: 350px;
+}
+.cont1-3
+{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    top: 550px;
+    right: 680px;
+}
+.cont2-2
+{
+    display: flex;
+    flex-direction: column;
+}
+.cont3-3
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.caja1
+{
+    background-color: blue;
+    width: 100px;
+    height: 125px;
+    margin: 10px;
+}
+.caja2
+{
+    width: 300px;
+    background-color: yellow;
+    height: 100px;
+    margin: 5px;
+}
+.caja3
+{
+    width: 120px;
+    height: 145px;
+    margin: 5px;
+    background-color: blueviolet;
+}
+.caja2-2
+{
+    width: 320px;
+    height: 150px;
+    background-color: brown;
+    margin: 10px;
+}
+.caja3-3
+{
+    width: 110px;
+    height: 150px;
+    margin: 10px;
+    background-color: chocolate;
+}
